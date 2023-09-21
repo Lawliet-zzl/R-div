@@ -9,6 +9,7 @@ python higgs.py
 
 ```python
 print("Hello, world!")
+```
 
 ## MNIST
 
