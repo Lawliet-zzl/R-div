@@ -7,6 +7,9 @@ To run HIGGS experiment, choose --n = 500,1000,1500,2500,4000,5000 and run
 
 python higgs.py
 
+```python
+print("Hello, world!")
+
 ## MNIST
 
 ## Blob
